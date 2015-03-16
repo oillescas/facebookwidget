@@ -1,0 +1,1 @@
+Paquete con una serie de widgets para el cms silverstripe que integran los modulos de facebook de http://developers.facebook.com/plugins
